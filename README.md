@@ -63,4 +63,8 @@ Improving stock availability to match average demand could substantially reduce 
 The analysis highlights the need for better demand forecasting and inventory optimization during high-demand periods
 ## Dashboard Preview
 ### [Demand/Availability] Page:https://github.com/susmitasubudhi/Demand-and-Availability-Analytics-Using-SQL-and-Python/blob/main/Page1.png
+<img width="1412" height="750" alt="Page1" src="https://github.com/user-attachments/assets/b945ab90-a457-4cff-82bc-37206bed9bbd" />
+
+
+
 ### [Profit/Loss]Page:https://github.com/susmitasubudhi/Demand-and-Availability-Analytics-Using-SQL-and-Python/blob/main/Page2.png
