@@ -1,9 +1,9 @@
 # Demand-and-Availability-Analytics-Using-SQL-and-Python
-1. Project Title / Headline
+#1. Project Title / Headline
 
 Demand vs Availability Analysis for Revenue Optimization
 A data analytics project built using SQL and Power BI to identify supply shortages, quantify revenue loss, and support inventory planning through business KPIs and interactive dashboards.
-2. Short Description / Purpose
+#2 Short Description / Purpose
 
 This project analyzes daily demand and product availability to uncover supply gaps and measure their financial impact. Using SQL for data preparation and Power BI with DAX for analytics, the dashboard highlights profit, loss, and shortage trends to enable data-driven inventory decisions.
 3. Tech Stack
