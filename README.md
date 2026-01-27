@@ -65,6 +65,6 @@ The analysis highlights the need for better demand forecasting and inventory opt
 ### [Demand/Availability] Page:https://github.com/susmitasubudhi/Demand-and-Availability-Analytics-Using-SQL-and-Python/blob/main/Page1.png
 <img width="1412" height="750" alt="Page1" src="https://github.com/user-attachments/assets/b945ab90-a457-4cff-82bc-37206bed9bbd" />
 
-
-
 ### [Profit/Loss]Page:https://github.com/susmitasubudhi/Demand-and-Availability-Analytics-Using-SQL-and-Python/blob/main/Page2.png
+<img width="1411" height="745" alt="Page2" src="https://github.com/user-attachments/assets/30c0b57f-4be4-4564-b96a-8c7a96561aa7" />
+
