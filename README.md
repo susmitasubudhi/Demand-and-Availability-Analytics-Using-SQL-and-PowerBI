@@ -61,3 +61,5 @@ Despite generating 300.55K in profit, unmet demand caused an average daily loss 
 Improving stock availability to match average demand could substantially reduce losses and increase profitability
 
 The analysis highlights the need for better demand forecasting and inventory optimization during high-demand periods
+## Dashboard Preview
+[Demand/Availability] Page:
