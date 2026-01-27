@@ -1,4 +1,4 @@
-# Demand-and-Availability-Analytics-Using-SQL-and-Python
+# Demand-and-Availability-Analytics-Using-SQL-and-PowerBI
 ## 1. Project Title / Headline
 
 Demand vs Availability Analysis for Revenue Optimization
