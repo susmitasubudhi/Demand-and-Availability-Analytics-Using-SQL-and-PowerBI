@@ -67,6 +67,6 @@ The analysis highlights the need for better demand forecasting and inventory opt
 
 
 <img width="1163" height="739" alt="Screenshot 2026-02-25 165431" src="https://github.com/user-attachments/assets/25f73bcf-3f82-4dcd-9ca8-7624da620abb" />
-<img width="1163" height="739" alt="Screenshot 2026-02-25 165431" src="https://github.com/user-attachments/assets/25f73bcf-3f82-4dcd-9ca8-7624da620abb" />
+
 
 
